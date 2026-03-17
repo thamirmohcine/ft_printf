@@ -4,7 +4,7 @@ A custom implementation of the C `printf` function that formats and writes outpu
 
 ## 📦 Installation
 
-This project is a C static library project (no `package.json` or `requirements.txt` needed).
+This project is a C static library project .
 
 ### Prerequisites
 
